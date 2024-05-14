@@ -32,11 +32,11 @@
   <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
   <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">
 
-   - <h2> / Learning at home / </h2>
+  - <h2> / Learning at home / </h2>
+   
    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
-   <img alt="Dynamic JSON Badge" src="">
-   <img alt="Dynamic JSON Badge" src="">
+   
    
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
