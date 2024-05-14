@@ -8,9 +8,14 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ Delving into the realm of web development:
+
+During my free time, I am passionately engaged in personal web development projects. I am driven by a thirst for acquiring new technologies and programming languages to bring my digital ideas to life.
+
+- 👾 Expanding my programming expertise:
+
+Recognizing the ever-evolving nature of the technology landscape, I dedicate time to exploring programming languages and staying abreast of the latest web development trends. My goal is to hone my skills and become a well-rounded professional in this field.
+
   
 <h2> / current skills / </h2>
   
