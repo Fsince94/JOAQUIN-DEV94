@@ -22,7 +22,7 @@
   
   - <h5> currently learning </h5>
   <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
