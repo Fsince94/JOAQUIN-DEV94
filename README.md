@@ -21,7 +21,7 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
   - <h5> currently learning </h5>
-  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 
   
 - <h4> frameworks & libraries </h4>
