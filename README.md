@@ -20,7 +20,7 @@
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "SQL" />
-  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
+  
 
 <h4> tools and technologies </h4>
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
@@ -59,11 +59,8 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<a href="https://media.licdn.com/dms/image/D4E16AQEVrFmZvG07rQ/profile-displaybackgroundimage-shrink_350_1400/0/1715361742726?e=1721260800&v=beta&t=ro3jWZbPrUcTAIcFjxH_cdsrC7zBHwcKe6-WK22ri88">Image by Joaquin</a>
   </div>
   </div>
-bout ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
